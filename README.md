@@ -1,4 +1,4 @@
-#Admin panel (REST API)
+# Admin panel (REST API)
 ***
-*Language: PHP
-*Framework [Slim](https://www.slimframework.com/)
+* Language: PHP
+* Framework [Slim](https://www.slimframework.com/)
